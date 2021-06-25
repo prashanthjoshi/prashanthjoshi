@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashanthjoshi.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on projects based on python.
+- 💞️ I’m looking to collaborate on projects based on Python.
 - 📫 How to reach me prashanthjoshi999@gmail.com.
 
 <!---
