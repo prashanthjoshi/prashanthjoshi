@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashanthjoshi.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on projects based on Python.
+- 🌱 I’m currently learning Frontend Angular.
+- 💞️ I’m looking to collaborate on projects based on Java, DBMS, Frontend Web Development.
 - 📫 How to reach me prashanthjoshi999@gmail.com.
 
 <!---
